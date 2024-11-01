@@ -1,0 +1,225 @@
+
+* {
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+    }
+    html,
+    body {
+      font-family:Roboto, sans-serif, arial;
+      font-size: 16px;
+      color: #242424;
+
+    }
+    .container {
+      width: auto;
+      margin: 0px auto;
+    }
+    .main-section {
+      width: 100%;
+      float: left;
+      padding: 70px 0px 70px 0px;
+    }
+    .heading {
+      font-size: 28px;
+      font-weight: 500;
+      border-bottom: 1px solid #46b7c1;
+      margin-bottom: 20px;
+      color: #46b7c1;
+    }
+.header {
+	background: #46b7c1;
+	padding: 6px;
+}
+.header.container {
+  width: 100px;
+  
+}
+.header b {
+	background: #fff;
+	color: red;
+	padding:10px;
+	font-size: 20px;
+}
+.header marquee {
+	font-size:20px;
+	color: #ffffff;
+}
+.logo {
+	height:60px;
+}
+.school-name {
+  font-size: 24px; /* Adjust font size as needed */
+  font-weight: bold; /* Optional: make the text bold */
+}
+nav {
+	float: right;
+  margin-top: 10px;
+  margin-left:50px;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  align-items: left;
+}
+nav a {
+	color: black;
+	text-decoration: none;
+	font-size:18px;
+	padding:2px 10px;
+  margin-bottom: auto;
+	font-weight:500;
+}
+.slider img {
+      width: 100%;
+    }
+.event {
+      width: 32%;
+      margin-right: 1%;
+      float: left;
+      background-color: #fff;
+      padding: 10px;
+      border-radius: 10%;
+    }
+    .event .heading {
+      border-bottom: 1px solid #46b7c1;
+      padding: 5px;
+      color: #fff;
+      background: #46b7c1;
+      text-align: center;
+      border-radius: 50%;
+    }
+    .event ul li {
+      margin-bottom: 20px;
+      width: 100%;
+      float: left;
+      list-style: none;
+    }
+    .event-date {
+      background: #46b7c1;
+      float: left;
+      text-align: center;
+      font-size: 14px;
+      color: #fff;
+      padding: 8px 12px;
+      margin-right: 10px;
+    }
+.about-us div {
+      width: 45%;
+      float: left;
+      line-height: 30px;
+      font-size: 18px;
+    }
+    .about-us h4 {
+      font-size: 22px;
+    }
+    .about-us p {
+      line-height: 42px;
+    }
+    .about-us img {
+      width: 40%;
+      float: left;
+    }
+
+
+.footer {
+      background-color:black;
+      padding: 20px 0px;
+      width: 100%;
+      float: left;
+    }
+    font.social{ 
+      color: white;
+      font-size: 24px;
+  }
+  div.social{
+    padding-left: 350px;
+  }
+  img.id {
+    width: 45px;
+    height: 45px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    vertical-align: middle;
+  }
+  div.sports{
+    margin-left: 100px; 
+    margin-right: 100px;
+    margin-top: 50px; 
+    border: 2px solid; 
+    border-radius: 5px; 
+    border-color: #46b7c1; 
+    padding-bottom: 350px ;  
+    height: 350px;
+  }
+  div.sports1{margin-left: 100px; 
+    margin-right: 100px; 
+    margin-top: 50px; 
+    border: 2px solid; 
+    border-radius: 5px; 
+    border-color: #46b7c1; 
+    padding-bottom: 410px ;  
+    height: 410px;
+  }
+  div.faculty{
+    padding-left:250px;
+  }
+  div.block{
+    margin-left: 20px; 
+    margin-right: 890px; 
+    margin-top: 20px; 
+    border: 2px solid; 
+    border-radius: 5px; 
+    border-color: #46b7c1; 
+    padding-bottom: 200px;  
+    height: 200px;
+  }
+  div.block1{
+    margin-left: 780px; 
+    margin-right: 20px; 
+    margin-top: 10px; 
+    border: 2px solid; 
+    border-radius: 5px; 
+    border-color: #46b7c1; 
+    padding-bottom: 200px; 
+    height: 200px;}
+  img.faculty{
+    float: left; 
+    padding-left: 10px; 
+    height: 190; 
+    width: 250px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+  }
+  p.faculty{
+    padding-left: 20px;
+    word-spacing: 3px; 
+    line-height: 20px; 
+    font-weight: 600;
+  }
+  div.form{
+    margin-left: 350px; 
+    margin-right: 350px; 
+    border: 3px solid grey; 
+    border-radius: 5px;
+  }
+  div.form-group{
+    padding-left: 10px; 
+    padding-right: 10px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
+    line-height: 20px;}
+.form-group input{
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}

@@ -1,0 +1,42 @@
+body{margin:0px;
+}
+div.quotesection{
+background-color: silver;
+padding: 6px;
+margin-bottom: 0px;
+}
+div.quote{
+    font-weight: bold;
+    font-size: 20px ;
+}
+img.logo {
+	height:125px;
+    float:left;
+    display:flex;
+    border: 5px;
+    border-style: outset;
+    border-radius:8%;
+}
+nav.name {
+	float: left;
+	padding:25px 0px;
+    font-weight: bold;
+    font-size: 40px;
+    
+}
+nav {
+	float: right;
+	padding:75px 0px;
+    font-weight: bold;
+    font-size: 22px;    
+}
+a{
+    color: black;
+	text-decoration: none;
+	font-size:20px;
+	padding:2px 10px;
+	font-weight:500;
+}
+div.menu{margin-bottom: 0px;}
+hr.line{
+width: 100%;}
